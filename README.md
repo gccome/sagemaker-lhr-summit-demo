@@ -1,5 +1,6 @@
 # Introduction
 This repository contains the source code, Jupyter notebooks, configuration etc. for the SageMaker demo presenteted at the AWS London Summit 2018.
+Video link: https://www.youtube.com/watch?v=1kJf0Lvzj8A
 
 # Setup
 
